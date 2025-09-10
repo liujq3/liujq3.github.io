@@ -1,0 +1,55 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - JiaqiWeb</title>
+        <link>https://liujq3.github.io/posts/</link>
+        <description>All Posts | JiaqiWeb</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</lastBuildDate><atom:link href="https://liujq3.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>EDUCATION</title>
+    <link>https://liujq3.github.io/1.-education/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/1.-education/</guid>
+    <description><![CDATA[Southern University of Science and Technology (SUSTech) | Bachelor of Engineering in Material Science and Engineering]]></description>
+</item>
+<item>
+    <title>RESEARCH INTEREST</title>
+    <link>https://liujq3.github.io/2.-research-interest/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/2.-research-interest/</guid>
+    <description><![CDATA[Electronic skins (E-skins) for supporting observation learning in humanoid robots]]></description>
+</item>
+<item>
+    <title>PUBLICATION AND PATENT</title>
+    <link>https://liujq3.github.io/3.-publication-patent/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/3.-publication-patent/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>MAJOR RESEARCH EXPERIENCE</title>
+    <link>https://liujq3.github.io/4.-major-research-experience/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/4.-major-research-experience/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>SCIENTIFIC COMPETITION</title>
+    <link>https://liujq3.github.io/5.-scientific-competition/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/5.-scientific-competition/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>SKILL</title>
+    <link>https://liujq3.github.io/6.-skill/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/6.-skill/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,55 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - JiaqiWeb</title>
+        <link>https://liujq3.github.io/zh-cn/posts/</link>
+        <description>所有文章 | JiaqiWeb</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</lastBuildDate><atom:link href="https://liujq3.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>教育经历</title>
+    <link>https://liujq3.github.io/zh-cn/1.-education/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/1.-education/</guid>
+    <description><![CDATA[南方科技大学 (SUSTech) | 材料科学与工程学士学位]]></description>
+</item>
+<item>
+    <title>研究兴趣</title>
+    <link>https://liujq3.github.io/zh-cn/2.-research-interest/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/2.-research-interest/</guid>
+    <description><![CDATA[面向仿人机器人观察学习开发的电子皮肤及其深度学习模型]]></description>
+</item>
+<item>
+    <title>发表与专利</title>
+    <link>https://liujq3.github.io/zh-cn/3.-publication-patent/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/3.-publication-patent/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>主要项目经历</title>
+    <link>https://liujq3.github.io/zh-cn/4.-major-research-experience/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/4.-major-research-experience/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>学术竞赛</title>
+    <link>https://liujq3.github.io/zh-cn/5.-scientific-competition/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/5.-scientific-competition/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>专业技能</title>
+    <link>https://liujq3.github.io/zh-cn/6.-skill/</link>
+    <pubDate>Fri, 22 Aug 2025 22:07:27 &#43;0800</pubDate>
+    <author>Jiaqi Liu</author>
+    <guid>https://liujq3.github.io/zh-cn/6.-skill/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
