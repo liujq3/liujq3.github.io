@@ -27,12 +27,12 @@ Bachelor of Engineering in Materials Science and Engineering</strong>
 <br>
 
 ### Core Courses
-- [x] Electronic Component Reliability and Failure Analysis (94)
-- [x] 3D Printing and Laser-based Advanced Manufacturing (94)
-- [x] Advanced Thin Film Technology (93)
-- [x] Heat and Mass Transfer (97)
-- [x] Crystallography (91)
-- [x] Material Characterization Techniques (90)
+- [x] Electronic Component Reliability and Failure Analysis (A)
+- [x] 3D Printing and Laser-based Advanced Manufacturing (A)
+- [x] Advanced Thin Film Technology (A)
+- [x] Heat and Mass Transfer (A+)
+- [x] Crystallography (A-)
+- [x] Material Characterization Techniques (A-)
 <br>
 <br>
 
