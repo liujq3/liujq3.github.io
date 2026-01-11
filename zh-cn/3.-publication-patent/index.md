@@ -15,10 +15,12 @@
 ## 期刊
 <div style="text-align: justify;">
 
-1. Z. Wu, Y. Cheng, Z. Yang, T. Wang, <strong>J. Liu</strong>, J. Feng, Y. Tian, C. Guo. <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202517569">Ultra-Sensitive and High-Resolution Flexible Iontronic Humidity Sensor for Detecting Subtle Moisture Differences</a>. <strong>_Advanced Functional Materials_</strong>. 2025, e17569. （印刷中）
+1. Z. Wu, <strong>J. Liu</strong>, H. Zhang, J. Feng, and Y. Tian. <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.202502304">Low-Hysteresis Self-Powered Flexible Humidity Sensor Based on Sulfonated Graphene Oxide for Breath Monitoring</a>. <strong>_Advanced Materials Technologies_</strong>. 2025, e02304. (In Press)
+   <br>![](/posts/P_2_3.png)<br>
+2. Z. Wu, Y. Cheng, Z. Yang, T. Wang, <strong>J. Liu</strong>, J. Feng, Y. Tian, C. Guo. <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202517569">Ultra-Sensitive and High-Resolution Flexible Iontronic Humidity Sensor for Detecting Subtle Moisture Differences</a>. <strong>_Advanced Functional Materials_</strong>. 2025, e17569. (In Press)
+   <br>![](/posts/P_2_2.png)<br>
+3. R. Wang, Y. Cheng, Q. Zhang, H. Li, W. Wu, Y. Wang, <strong>J. Liu</strong>, R. Xing, J. Ma, T. Jiao. <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202414481">Near infrared light-based non-contact sensing system for robotics applications</a>. <strong>_Advanced Materials_</strong>. 2025, 30, e2414481.
    <br>![](/posts/P_2_1.png)
-2. R. Wang, Y. Cheng, Q. Zhang, H. Li, W. Wu, Y. Wang, <strong>J. Liu</strong>, R. Xing, J. Ma, T. Jiao. <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202414481">Near infrared light-based non-contact sensing system for robotics applications</a>. <strong>_Advanced Materials_</strong>. 2025, 30, e2414481.
-   <br>![](/posts/P_2_2.png)
 </div>
 
 ---

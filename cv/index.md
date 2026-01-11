@@ -10,10 +10,13 @@
 
 <strong>TEL:</strong> 86-18218464738
  |
-<strong>E-Mail:</strong> liujq3@mail.sustech.edu.cn
+<strong>E-Mail:</strong> 12111843@mail.sustech.edu.cn
  | 
 <i class='far fa-file fa-fw' aria-hidden='true'></i>
 <a href="/cv/Jiaqi_CV_en.pdf" target="_blank" title="Access File">Jiaqi CV (English)</a>
+<br>
+<br>
+<strong>Last Revised:</strong> Jan 2026
 </div>
 
 ---

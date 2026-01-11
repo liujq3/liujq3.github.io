@@ -21,11 +21,11 @@
     </div>
     <div class="info-item">
       <i class='fas fa-envelope fa-fw' aria-hidden='true'></i>
-      <span>liujq3@mail.sustech.edu.cn</span>
+      <span>12111843@mail.sustech.edu.cn</span>
     </div>
     <div class="info-item">
       <i class='fas fa-location-dot fa-fw' aria-hidden='true'></i>
-      <span>Shenzhen, China</span>
+      <span>Guangzhou, China</span>
     </div>
   </div>
 </div>

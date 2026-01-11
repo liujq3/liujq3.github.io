@@ -10,10 +10,13 @@
 
 <strong>电话:</strong> 86-18218464738
 |
-<strong>邮箱:</strong> liujq3@mail.sustech.edu.cn
+<strong>邮箱:</strong> 12111843@mail.sustech.edu.cn
 |
 <i class='far fa-file fa-fw' aria-hidden='true'></i>
 <a href="/cv/Jiaqi_CV_zh-cn.pdf" target="_blank" title="Access File">刘嘉琦简历（中文）</a>
+<br>
+<br>
+<strong>信息更新至：</strong>2026年1月
 </div>
 
 ---
